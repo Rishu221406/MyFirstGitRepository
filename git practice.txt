@@ -1,0 +1,28 @@
+git config --global user.name xyz
+git config --local user.name xyz
+
+
+git config --global user.email xyz@gmail.com
+git config --local user.email xyz@gmail.com
+
+
+
+git init
+
+
+git status
+
+
+
+git add "abcd.txt"
+git add -A
+git add .
+
+
+
+git commit -m
+git commit  (press I - insert   press ESc button   , (:wq))
+
+
+
+
